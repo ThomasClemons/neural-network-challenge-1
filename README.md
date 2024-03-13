@@ -99,8 +99,8 @@ Briefly answer the following questions:
 >
 > **Answer:**  
 >>**a) College enrollment status - Target students that are currently enrolled, have been accepted to college, or have a college application pending.**  
-**b) Student Loans Status - Does student already have student loans?  Students that already have student loans may be interested in getting another loan.**  
-**c) Student Loan Interest - Is student interested learning about student loan options? Students that have an interest in student loan options may be more receptive to student loan recommendations.**  
+>> **b) Student Loans Status - Does student already have student loans?  Students that already have student loans may be interested in getting another loan.**  
+>> **c) Student Loan Interest - Is student interested learning about student loan options? Students that have an interest in student loan options may be more receptive to student loan recommendations.**  
 >>**d) Student Financial Needs Assessment - This would help with recommending the appropriate student loans based on fnancial need.**  
 >>**e) Student location/Residency - This will help determine eligibility for student loans**  
 >>**f) Student grades/GPA - Good academic performance could be an indicator of a good student loan candidate**  
